@@ -1,6 +1,6 @@
 # VisaPass Manager
 
-VisaPass Manager is a lightweight web-based application for managing user passport and visa records. Built with HTML, CSS, Bootstrap, PHP, and MySQL (phpMyAdmin), it helps HR/admins monitor expiring documents and update statuses efficiently.
+VisaPass Manager is a lightweight web-based application for managing user passport and visa records. Built with HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL (phpMyAdmin), it helps HR/admins monitor expiring documents and update statuses efficiently.
 
 ---
 
